@@ -5,7 +5,7 @@
 ¡Hola! Me considero un Full-Stack Developer orientado a Backend, actualmente cursando el Tecnólogo en Informática en UTEC. Me interesa especialmente el desarrollo de sistemas backend, el diseño de APIs y la resolución de problemas mediante lógica y estructuras de datos eficientes.  
 
 Disfruto trabajar en la construcción de software mantenible y escalable, aplicando buenas prácticas de arquitectura, validación de datos y testing.
-Y también me gusta el humor.. pero eso no debería venir acá.. 
+> Y también me gusta el humor.. pero eso no debería venir acá.. 
 
 ---
 ## ❗Intereses actuales
