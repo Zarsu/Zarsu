@@ -71,6 +71,25 @@ Metodologías ágiles (Scrum)
 
 Durante mi formación he trabajado en distintos proyectos enfocados principalmente en backend y lógica del sistema.
 
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> CitrusChat (Java / Spring Boot)
+
+Plataforma de mensajería segura inspirada en arquitecturas modernas de comunicación cifrada.
+
+Características principales:
+
+* Implementación de **Signal Protocol** para intercambio de claves y establecimiento de sesiones seguras.
+* Desarrollo de una **API REST** utilizando **Spring Boot**.
+* Autenticación y autorización mediante **JWT**.
+* Comunicación en tiempo real utilizando **WebSockets**.
+* Persistencia de datos mediante **JPA/Hibernate** y **MySQL**.
+* Aplicación de principios de **Clean Architecture** y **Arquitectura Hexagonal**.
+* Testing automatizado utilizando **JUnit 5** y **Mockito**.
+
+> Proyecto actualmente en desarrollo 🚧
+> Puedes verlo aqui: [CitrusChat](https://github.com/citrus-chat)
+
+---
+
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> Sistema de Gestión de Aerolínea (Java)
 
 Sistema web cliente-servidor para gestión de reservas y compras de vuelos.
@@ -89,17 +108,34 @@ Principales características:
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> Explorador de Archivos (C++)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> Videojuego 2D con Motor Propio (HTML5 Canvas)
 
-Implementación de un explorador de archivos basado en estructuras de datos.
+Desarrollo de un videojuego 2D utilizando JavaScript y un motor desarrollado desde cero.
 
 Características principales:
 
-- Uso de **árboles y listas enlazadas**
-- Operaciones **CRUD para archivos y carpetas**
-- Enfoque en **eficiencia lógica y gestión de memoria**
+* Sistema propio de entidades.
+* Detección y resolución de colisiones.
+* Arquitectura modular para la lógica de juego.
+* Gestión de estados y comportamiento de objetos.
+* Aplicación de conceptos de programación orientada a objetos y estructuras de datos.
 
->404 code not found for this project.. :(
+> Proyecto académico en desarrollo 🚧
+
+---
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> Videojuego con Arquitectura Basada en Estados (Godot)
+
+Videojuego desarrollado en Godot utilizando una arquitectura desacoplada orientada a mantenibilidad y reutilización.
+
+Características principales:
+
+* Implementación de **State Machines** para entidades.
+* Separación de responsabilidades mediante componentes desacoplados.
+* Arquitectura orientada a escalabilidad y mantenimiento.
+* Gestión modular de personajes, enemigos y sistemas de juego.
+
+> Proyecto académico en desarrollo 🚧
 
 ---
 
@@ -109,26 +145,12 @@ Proyecto desarrollado en equipo para gestionar propiedades inmobiliarias.
 
 Responsabilidades principales:
 
-- Diseño del **modelo de base de datos**
-- Implementación de **CRUD administrativo**
-- Configuración de **Ubuntu Server**
-- Tecnologías utilizadas: **PHP, JavaScript, HTML, CSS y MySQL**
->404 code not found for this project.. :(   
+* Diseño del modelo de base de datos.
+* Implementación de CRUD administrativo.
+* Configuración de Ubuntu Server.
+* Tecnologías utilizadas: PHP, JavaScript, HTML, CSS y MySQL.
 
----
-
-###  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> Sistema de Base de Datos Inmobiliaria (PostgreSQL)  
-
-Diseño de una base de datos relacional para gestión de propiedades.
-
-Incluye:
-
-- Modelado de entidades
-- Normalización de datos
-- Integridad referencial
-- Consultas SQL
-
->404 code not found for this project.. :(
+> Proyecto académico finalizado.
 
 ---
 
