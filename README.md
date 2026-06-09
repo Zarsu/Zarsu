@@ -154,6 +154,10 @@ Responsabilidades principales:
 
 ---
 
+### ¡Hay más proyectos, ánimate a conocerlos!
+
+---
+
 ## Contacto 📞
 
 LinkedIn  
