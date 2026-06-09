@@ -50,6 +50,7 @@ Docker,
 Git,
 Maven,
 Ubuntu Server  
+
 ---
 
 ## 🧠 Conceptos y prácticas
@@ -63,6 +64,7 @@ Programación orientada a objetos
 Patrones de diseño 
 Testing de integración  
 Metodologías ágiles (Scrum)
+
 ---
 
 ## 🎓 Experiencia académica y proyectos
