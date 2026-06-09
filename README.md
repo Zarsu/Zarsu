@@ -12,16 +12,14 @@ Disfruto trabajar en la construcción de software mantenible y escalable, aplica
 
 Actualmente estoy profundizando en:
 
-- Testing de APIs
-    - Supertest
-- Seguir profundizando con Node.js y TypeScript  
+- SpringBoot, Java
+- Seguir profundizando con Laravel y Eloquent
 > Quiero hacer énfasis en cómo funcionan por dentro.
 
 A futuro:
 
-- Profundizar en React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="15"/>
-- Profundizar en Base de Datos no relacionales (MongoDB)
-- Profundizar distintos diseños de patrones  
+- Profundizar en Base de Datos no relacionales (MongoDB).
+- Profundizar en algún framework de front.
 
 ---
 
@@ -29,29 +27,42 @@ A futuro:
 
 ### Backend
 
-Para el back me gusta utilizar: 
+Backend:
+Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="15"/>,
+Spring Boot <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="15"/>,
 Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="15"/>, 
 TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="15"/>, 
-Express.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="15"/>  
-Algunas de las herramientas que utilizo para Validación y seguridad son: Valibot, bcrypt, dotenv  
-Bases de datos: PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="15"/>, 
-MongoDB (por aprender..)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="15"/>  
-Para testear: Supertest (actualmente explorando)  
->“El backend es como la plomería: nadie lo ve hasta que algo explota.”
+Express.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="15"/> 
+y Laravel <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="15"/>  
 
+Persistencia:
+MySQL,
+PostgreSQL,
+JPA/Hibernate,
+Eloquent ORM  
+
+Testing
+JUnit 5,
+Mockito,  
+
+Herramientas
+Docker,
+Git,
+Maven,
+Ubuntu Server  
 ---
 
 ## 🧠 Conceptos y prácticas
 
-Arquitectura en capas (N-Layer)  
+Clean Architecture  
+Hexagonal Architecture  
 Desarrollo de APIs REST  
+Arquitectura en capas (N-Layer)  
 Estructuras de datos  
 Programación orientada a objetos  
 Patrones de diseño 
 Testing de integración  
 Metodologías ágiles (Scrum)
-> "Guardar todo en un array no siempre es buena idea.."
-
 ---
 
 ## 🎓 Experiencia académica y proyectos
@@ -125,4 +136,6 @@ LinkedIn
 https://www.linkedin.com/in/francofernandezcabrera
 
 GitHub  
-https://github.com/Zarsu
+https://github.com/Zarsu  
+>Has llegado al final! Me siento en la obligación de darte alguna recompensa..  
+>pero no se me ocurre qué, así que.. ¡Que tengas un bonito día! <3
